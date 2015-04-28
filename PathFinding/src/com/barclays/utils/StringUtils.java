@@ -1,8 +1,8 @@
-package com.barcklays.utils;
+package com.barclays.utils;
 
-import com.barcklays.datastructures.Bag;
-import com.barcklays.datastructures.Departures;
-import com.barcklays.datastructures.Edge;
+import com.barclays.datastructures.Bag;
+import com.barclays.datastructures.Departures;
+import com.barclays.datastructures.Edge;
 
 public class StringUtils {
 

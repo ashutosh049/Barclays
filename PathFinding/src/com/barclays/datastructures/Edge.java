@@ -1,4 +1,4 @@
-package com.barcklays.datastructures;
+package com.barclays.datastructures;
 
 public class Edge {
 

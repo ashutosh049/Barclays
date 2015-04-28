@@ -1,4 +1,4 @@
-package com.barcklays.utils;
+package com.barclays.utils;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

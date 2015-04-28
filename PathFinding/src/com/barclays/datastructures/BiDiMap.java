@@ -1,4 +1,4 @@
-package com.barcklays.datastructures;
+package com.barclays.datastructures;
 
 import java.util.HashMap;
 

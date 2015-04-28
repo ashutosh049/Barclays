@@ -1,14 +1,14 @@
-package com.barcklays.drivers;
+package com.barclays.drivers;
 
 import java.io.IOException;
 import java.util.ArrayList;
 
-import com.barcklays.datastructures.Bag;
-import com.barcklays.datastructures.Departures;
-import com.barcklays.datastructures.Edge;
-import com.barcklays.datastructures.Graph;
-import com.barcklays.utils.FileUtils;
-import com.barcklays.utils.StringUtils;
+import com.barclays.datastructures.Bag;
+import com.barclays.datastructures.Departures;
+import com.barclays.datastructures.Edge;
+import com.barclays.datastructures.Graph;
+import com.barclays.utils.FileUtils;
+import com.barclays.utils.StringUtils;
 
 public class Main {
 
